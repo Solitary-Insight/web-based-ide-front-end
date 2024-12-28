@@ -1,0 +1,17 @@
+
+.playfair{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+}
+body{
+
+}
+.bg-blue{
+    background-color: rgba(1, 1, 48, 0.705);
+}
+.files{
+  font-family: "Playfair Display", serif;
+
+}

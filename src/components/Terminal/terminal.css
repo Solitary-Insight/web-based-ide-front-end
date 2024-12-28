@@ -1,0 +1,16 @@
+.parent{
+    background-color: red !important;
+    margin: 0;
+    padding: 0;
+}
+/* terminal.css */
+.terminal-output {
+    padding: 10px;
+    background-color: #2e2e2e;
+    color: #ffffff;
+    border: 1px solid #444;
+    border-radius: 4px;
+}
+.ter{
+
+}
